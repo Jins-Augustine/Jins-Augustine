@@ -1,10 +1,10 @@
-##<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/Bpv9wTLKMskAAAAC/computer-nerds.gif"  />
 </div>
 
 ###
 
-<h2 align="center">Hi 👋! My name is Jins Augustine and I'm a Computer Science Student</h2>
+<h2 align="center"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cardo&weight=700&duration=2500&pause=100&color=930FFC&multiline=true&width=435&height=65&lines=Hello+hello;I'm+Jins%2C++a+cyber+sentinal+and+a+Japan+junkie" alt="Typing SVG" /></a></h2>
 
 ###
 
