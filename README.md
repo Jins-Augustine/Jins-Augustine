@@ -38,7 +38,6 @@
   <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo" />
 </div>
 
-<hr style="border: 1px solid #ccc; width: 80%; margin: 20px auto;"/>
 
 <img align="left" height="150" src="https://media1.tenor.com/m/bGS2OhhN9tsAAAAC/hello-gojo-satoru.gif" />
 
@@ -57,13 +56,13 @@
   </a>
 </div>
 
-<hr style="border: 1px solid #ccc; width: 80%; margin: 20px auto;"/>
+
 
 <br clear="both" />
 
 <img src="https://raw.githubusercontent.com/Jins-Augustine/Jins-Augustine/output/snake.svg" alt="Snake animation" />
 
-<hr style="border: 1px solid #ccc; width: 80%; margin: 20px auto;"/>
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Jins-Augustine.Jins-Augustine&left_color=yellow&right_color=purple" />
