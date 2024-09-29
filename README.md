@@ -47,7 +47,8 @@
 
 <div align="center">
   <h2>Connect with Me</h2>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=flat" height="35" alt="Instagram logo" />
+  <a href="https://www.instagram.com/ryu_xaki/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=flat" height="35" alt="Instagram logo" />
   <a href="mailto:jinsaugustine229@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=flat" height="35" alt="Gmail logo" />
   </a>
