@@ -19,53 +19,50 @@
 <hr style="border: 1px solid #ccc; width: 80%; margin: 20px auto;"/>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo" />
+  <h2>Technologies I Work With</h2>
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo" />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo" />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Bash logo" />
+    <img width="15" />
+    <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="PowerShell logo" />
+  </div>
 </div>
-
-
-<img align="left" height="150" src="https://media1.tenor.com/m/bGS2OhhN9tsAAAAC/hello-gojo-satoru.gif" />
-
-<hr style="border: 1px solid #ccc; width: 80%; margin: 20px auto;"/>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo" />
-  <a href="jinsaugustine229@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo" />
+  <img align="center" height="150" src="https://media1.tenor.com/m/bGS2OhhN9tsAAAAC/hello-gojo-satoru.gif" alt="Gojo Satoru waving GIF" />
+</div>
+
+<div align="center">
+  <h2>Connect with Me</h2>
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=flat" height="35" alt="Instagram logo" />
+  <a href="mailto:jinsaugustine229@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=flat" height="35" alt="Gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/jins-augustine-8249b124a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=flat" height="35" alt="LinkedIn logo" />
   </a>
   <a href="https://discordapp.com/users/987050129997574164/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=flat" height="35" alt="Discord logo" />
   </a>
 </div>
 
-
-
-<br clear="both" />
-
-<img src="https://raw.githubusercontent.com/Jins-Augustine/Jins-Augustine/output/snake.svg" alt="Snake animation" />
-
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Jins-Augustine/Jins-Augustine/output/snake.svg" alt="Snake animation" />
+</div>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Jins-Augustine.Jins-Augustine&left_color=yellow&right_color=purple" />
 </div>
-
-<hr style="border: 1px solid #ccc; width: 80%
