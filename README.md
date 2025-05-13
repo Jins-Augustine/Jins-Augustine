@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/Bpv9wTLKMskAAAAC/computer-nerds.gif" />
+  <img height="200" src="https://media1.tenor.com/m/Npd1vTDJclQAAAAC/flower-cat.gif" />
 </div>
 
 <h2 align="center">
@@ -40,9 +40,6 @@
   </div>
 </div>
 
-<div align="center">
-  <img align="center" height="150" src="https://media1.tenor.com/m/bGS2OhhN9tsAAAAC/hello-gojo-satoru.gif" alt="Gojo Satoru waving GIF" />
-</div>
 
 <div align="center">
   <h2>Connect with Me</h2>
@@ -57,6 +54,10 @@
   <a href="https://discordapp.com/users/987050129997574164/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=flat" height="35" alt="Discord logo" />
   </a>
+</div>
+
+<div align="center">
+  <img align="center" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJ5ajlibXhwczh5ZGl4a2kxa2NrNXJnNnFvbzdxY3I4YzZ1YTllZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NyMaiJVuPmPKcYbbKd/giphy.gif" />
 </div>
 
 <div align="center">
