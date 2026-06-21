@@ -113,13 +113,15 @@ Currently working on:
 
 ## NOW PLAYING
 
-<img align="right" src="https://raw.githubusercontent.com/Jins-Augustine/Jins-Augustine/main/assets/Ichika%20Amasawa%20_%20Classroom%20of%20the%20Elite%20COTE%20Season%204.jpg" width="260px" alt="music character"/>
+<img align="left" src="https://raw.githubusercontent.com/Jins-Augustine/Jins-Augustine/main/assets/Ichika%20Amasawa%20_%20Classroom%20of%20the%20Elite%20COTE%20Season%204.jpg" width="280px" alt="music character"/>
+
+<br/><br/><br/>
 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31cfzyh36zbabrhepctlzbsftzr4">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31cfzyh36zbabrhepctlzbsftzr4" alt="Spotify" width="380px"/>
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31cfzyh36zbabrhepctlzbsftzr4" alt="Spotify" width="480px"/>
 </a>
 
-<br clear="right"/>
+<br clear="left"/>
 
 <!-- ═══════════════════════ CONNECT ═══════════════════════ -->
 
