@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="" width="100%" alt="banner"/>
+<img src="https://media.tenor.com/CtMzSHFVd8AAAAAC/classroom-of-the-elite-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.gif" width="50%" alt="banner"/>
 
 <br/>
 
