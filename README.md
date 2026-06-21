@@ -1,69 +1,198 @@
 <div align="center">
-  <img width="900" src="https://media1.tenor.com/m/Npd1vTDJclQAAAAC/flower-cat.gif" />
+
+<!-- BANNER -->
+<img src="YOUR_BANNER_GIF_URL_HERE" width="100%" alt="banner"/>
+
+<br/>
+
+### Final Year Computer Science Student
+`Linux // Networking // Security // Development`
+
 </div>
 
-<h2 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A836F7&center=true&width=435&lines=HeY+Im+JiNs" alt="Typing SVG" /></a>
-  </a>
-</h2>
+---
 
-<hr style="border: 1px solid #ccc; width: 80%; margin: 20px auto;"/>
+<!-- ═══════════════════════ HELLO ═══════════════════════ -->
+
+## HELLO
+
+こんにちは世界
+
+<table>
+<tr>
+<td width="38%" align="center">
+
+<img src="https://raw.githubusercontent.com/Jins-Augustine/Jins-Augustine/main/assets/ayanokoji.png" width="300px" alt="character"/>
+
+</td>
+<td width="62%">
+
+```yaml
+Name     : Jins
+Location : India
+Degree   : B.Tech Computer Science
+Focus    : Networking & Security
+```
+
+Hey, I'm Jins — a CS student who lives in the terminal.
+Currently building things around network security,
+system administration, and infrastructure tooling.
+
+Currently working on:
+- Linux system hardening & administration
+- Network security — firewalls, DNS, VLAN, routing
+- SIEM with Wazuh, log analysis & threat detection
+- Cisco networking & packet-level analysis
+- Systems programming & low-level projects
+
+> *"自分が立っている場所が頂点だと決めたら、私は決して動かない。"*
+
+• Know about my work → [Resume](#)
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
+
+
+
+## PROJECTS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jins-Augustine&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=Jins-Augustine&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jins-Augustine&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph" />
+
+[![AthenaCore](https://github-readme-stats.vercel.app/api/pin/?username=Jins-Augustine&repo=AthenaCore&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c0392b&icon_color=c0392b)](https://github.com/Jins-Augustine/AthenaCore)
+[![AWS-CSPM](https://github-readme-stats.vercel.app/api/pin/?username=Jins-Augustine&repo=AWS-CSPM&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c0392b&icon_color=c0392b)](https://github.com/Jins-Augustine/AWS-CSPM)
+
+[![AidosDNS](https://github-readme-stats.vercel.app/api/pin/?username=Jins-Augustine&repo=AidosDNS&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c0392b&icon_color=c0392b)](https://github.com/Jins-Augustine/AidosDNS)
+[![Desmos](https://github-readme-stats.vercel.app/api/pin/?username=Jins-Augustine&repo=Desmos&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c0392b&icon_color=c0392b)](https://github.com/Jins-Augustine/Desmos)
+
 </div>
 
-<hr style="border: 1px solid #ccc; width: 80%; margin: 20px auto;"/>
+---
+
+<!-- ═══════════════════════ STATS ═══════════════════════ -->
+
+## STATS
+
+<table>
+<tr>
+<td width="38%" align="center">
+
+<img src="https://raw.githubusercontent.com/Jins-Augustine/Jins-Augustine/main/assets/Lando%20the%20Swift%20on%20TikTok.jpg" width="260px" alt="stats character"/>
+
+</td>
+<td width="62%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jins-Augustine&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c0392b&text_color=8b949e&icon_color=c0392b" width="100%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jins-Augustine&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c0392b&text_color=8b949e" width="70%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════ TOOLS ═══════════════════════ -->
+
+## TOOLS
 
 <div align="center">
-  <h2>Technologies I Work With</h2>
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
-    <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
-    <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
-    <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
-    <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo" />
-    <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" />
-    <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo" />
-    <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Bash logo" />
-    <img width="15" />
-    <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="PowerShell logo" />
-  </div>
+
+**OS & System**
+
+![Linux](https://img.shields.io/badge/Linux-c0392b?style=for-the-badge&logo=linux&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-c0392b?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-c0392b?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-c0392b?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-c0392b?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-c0392b?style=for-the-badge&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-c0392b?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-c0392b?style=for-the-badge&logo=javascript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-c0392b?style=for-the-badge&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-c0392b?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-c0392b?style=for-the-badge&logo=css3&logoColor=white)
+
+**Networking & Security**
+
+![Cisco](https://img.shields.io/badge/Cisco-c0392b?style=for-the-badge&logo=cisco&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-c0392b?style=for-the-badge&logo=wazuh&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-c0392b?style=for-the-badge&logo=pfsense&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-c0392b?style=for-the-badge&logo=nmap&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-c0392b?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+**Dev Tools**
+
+![Git](https://img.shields.io/badge/Git-c0392b?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-c0392b?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-c0392b?style=for-the-badge&logo=docker&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-c0392b?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-c0392b?style=for-the-badge&logo=neovim&logoColor=white)
+
 </div>
 
+---
+
+<!-- ═══════════════════════ NOW PLAYING ═══════════════════════ -->
+
+## NOW PLAYING
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://raw.githubusercontent.com/Jins-Augustine/Jins-Augustine/main/assets/Ichika%20Amasawa%20_%20Classroom%20of%20the%20Elite%20COTE%20Season%204.jpg" width="230px" alt="music character"/>
+
+</td>
+<td width="50%" align="center">
+
+<!-- Setup: https://data-card-for-spotify.herokuapp.com — login with Spotify, get your user_id from the URL -->
+<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=YOUR_SPOTIFY_USER_ID" alt="Spotify" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+
+## CONNECT
 
 <div align="center">
-  <h2>Connect with Me</h2>
-  <a href="https://www.instagram.com/ryu_xaki/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=flat" height="35" alt="Instagram logo" />
-  <a href="mailto:jinsaugustine229@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=flat" height="35" alt="Gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/jins-augustine-8249b124a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=flat" height="35" alt="LinkedIn logo" />
-  </a>
-  <a href="https://discordapp.com/users/987050129997574164/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=flat" height="35" alt="Discord logo" />
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-c0392b?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-c0392b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jins-Augustine)
+[![Discord](https://img.shields.io/badge/Discord-c0392b?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
+[![Gmail](https://img.shields.io/badge/Gmail-c0392b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+
 </div>
 
-<div align="center">
-  <img align="center" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJ5ajlibXhwczh5ZGl4a2kxa2NrNXJnNnFvbzdxY3I4YzZ1YTllZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NyMaiJVuPmPKcYbbKd/giphy.gif" />
-</div>
+---
+
+<!-- ═══════════════════════ ACTIVITY ═══════════════════════ -->
+
+## ACTIVITY
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Jins-Augustine/Jins-Augustine/output/snake.svg" alt="Snake animation" />
+
+<!-- Setup snake: github.com/Platane/snk — add the workflow action to your repo -->
+<img src="https://raw.githubusercontent.com/Jins-Augustine/Jins-Augustine/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Jins-Augustine&color=c0392b&style=flat-square&label=PROFILE+VIEWS)
+
 </div>
 
+---
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jins-Augustine.Jins-Augustine&left_color=yellow&right_color=purple" />
+<sub>- - - - - - - - - -</sub>
 </div>
