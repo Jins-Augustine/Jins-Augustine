@@ -10,22 +10,13 @@
 
 </div>
 
----
-
 <!-- ═══════════════════════ HELLO ═══════════════════════ -->
 
 ## HELLO
 
 こんにちは世界
 
-<table>
-<tr>
-<td width="38%" align="center">
-
-<img src="https://raw.githubusercontent.com/Jins-Augustine/Jins-Augustine/main/assets/ayanokoji.png" width="300px" alt="character"/>
-
-</td>
-<td width="62%">
+<img align="right" src="https://raw.githubusercontent.com/Jins-Augustine/Jins-Augustine/main/assets/ayanokoji.png" width="300px"/>
 
 ```yaml
 Name     : Jins
@@ -49,15 +40,9 @@ Currently working on:
 
 • Know about my work → [Resume](#)
 
-</td>
-</tr>
-</table>
-
----
+<br clear="right"/>
 
 <!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
-
-
 
 ## PROJECTS
 
@@ -71,30 +56,17 @@ Currently working on:
 
 </div>
 
----
-
 <!-- ═══════════════════════ STATS ═══════════════════════ -->
 
 ## STATS
 
-<table>
-<tr>
-<td width="38%" align="center">
+<img align="left" src="https://raw.githubusercontent.com/Jins-Augustine/Jins-Augustine/main/assets/ayano.jpg" width="340px"/>
 
-<img src="https://raw.githubusercontent.com/Jins-Augustine/Jins-Augustine/main/assets/Lando%20the%20Swift%20on%20TikTok.jpg" width="260px" alt="stats character"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jins-Augustine&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c0392b&text_color=8b949e&icon_color=c0392b" width="55%"/>
 
-</td>
-<td width="62%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jins-Augustine&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c0392b&text_color=8b949e" width="40%"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jins-Augustine&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c0392b&text_color=8b949e&icon_color=c0392b" width="100%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jins-Augustine&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c0392b&text_color=8b949e" width="70%"/>
-
-</td>
-</tr>
-</table>
-
----
+<br clear="left"/>
 
 <!-- ═══════════════════════ TOOLS ═══════════════════════ -->
 
@@ -137,29 +109,17 @@ Currently working on:
 
 </div>
 
----
-
 <!-- ═══════════════════════ NOW PLAYING ═══════════════════════ -->
 
 ## NOW PLAYING
 
-<table>
-<tr>
-<td width="50%" align="center">
+<img align="right" src="https://raw.githubusercontent.com/Jins-Augustine/Jins-Augustine/main/assets/Ichika%20Amasawa%20_%20Classroom%20of%20the%20Elite%20COTE%20Season%204.jpg" width="260px" alt="music character"/>
 
-<img src="https://raw.githubusercontent.com/Jins-Augustine/Jins-Augustine/main/assets/Ichika%20Amasawa%20_%20Classroom%20of%20the%20Elite%20COTE%20Season%204.jpg" width="230px" alt="music character"/>
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31cfzyh36zbabrhepctlzbsftzr4">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31cfzyh36zbabrhepctlzbsftzr4" alt="Spotify" width="380px"/>
+</a>
 
-</td>
-<td width="50%" align="center">
-
-<!-- Setup: https://data-card-for-spotify.herokuapp.com — login with Spotify, get your user_id from the URL -->
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=YOUR_SPOTIFY_USER_ID" alt="Spotify" width="100%"/>
-
-</td>
-</tr>
-</table>
-
----
+<br clear="right"/>
 
 <!-- ═══════════════════════ CONNECT ═══════════════════════ -->
 
@@ -174,15 +134,12 @@ Currently working on:
 
 </div>
 
----
-
 <!-- ═══════════════════════ ACTIVITY ═══════════════════════ -->
 
 ## ACTIVITY
 
 <div align="center">
 
-<!-- Setup snake: github.com/Platane/snk — add the workflow action to your repo -->
 <img src="https://raw.githubusercontent.com/Jins-Augustine/Jins-Augustine/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 
 <br/>
@@ -190,8 +147,6 @@ Currently working on:
 ![Visitor Count](https://komarev.com/ghpvc/?username=Jins-Augustine&color=c0392b&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
-
----
 
 <div align="center">
 <sub>- - - - - - - - - -</sub>
