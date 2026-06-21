@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="YOUR_BANNER_GIF_URL_HERE" width="100%" alt="banner"/>
+<img src="" width="100%" alt="banner"/>
 
 <br/>
 
