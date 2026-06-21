@@ -52,7 +52,7 @@ Currently working on:
 [![AWS-CSPM](https://github-readme-stats.vercel.app/api/pin/?username=Jins-Augustine&repo=AWS-CSPM&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c0392b&icon_color=c0392b)](https://github.com/Jins-Augustine/AWS-CSPM)
 
 [![AidosDNS](https://github-readme-stats.vercel.app/api/pin/?username=Jins-Augustine&repo=AidosDNS&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c0392b&icon_color=c0392b)](https://github.com/Jins-Augustine/AidosDNS)
-[![Desmos](https://github-readme-stats.vercel.app/api/pin/?username=Jins-Augustine&repo=Desmos&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c0392b&icon_color=c0392b)](https://github.com/Jins-Augustine/Desmos)
+
 
 </div>
 
