@@ -60,7 +60,7 @@ Currently working on:
 
 ## STATS
 
-<img align="left" src="https://raw.githubusercontent.com/Jins-Augustine/Jins-Augustine/main/assets/ayano.jpg" width="340px"/>
+<img align="left" src="https://raw.githubusercontent.com/Jins-Augustine/Jins-Augustine/main/assets/kiyotaka.jpg" width="340px"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jins-Augustine&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c0392b&text_color=8b949e&icon_color=c0392b" width="55%"/>
 
