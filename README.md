@@ -129,10 +129,10 @@ Currently working on:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-c0392b?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-c0392b?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jins-augustine)
 [![GitHub](https://img.shields.io/badge/GitHub-c0392b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jins-Augustine)
-[![Discord](https://img.shields.io/badge/Discord-c0392b?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
-[![Gmail](https://img.shields.io/badge/Gmail-c0392b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-c0392b?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/987050129997574164)
+[![Gmail](https://img.shields.io/badge/Gmail-c0392b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jinsaugustine229@gmail.com)
 
 </div>
 
